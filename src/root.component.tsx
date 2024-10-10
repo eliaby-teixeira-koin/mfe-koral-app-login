@@ -8,5 +8,5 @@ export default function Root(props) {
       <h1>Siow pelo amor de Deus</h1>
       {/* <Button>Teste</Button> */}
     </section>
-  );
+  )
 }
